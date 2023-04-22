@@ -2,8 +2,8 @@
 # Yet Another Earthquake Project
 
 ### Members
-- Burak Kılıç         Project Coordinator
-- Bilge Alper         Data Engineer
-- Mehmet Akif Tür     Data Engineer
-- Esra Kayaalp		    Data Scientist
-- Şevval Aysal	      Data Analyst
+- Burak Kılıç       as   Project Coordinator
+- Bilge Alper       as   Data Engineer
+- Mehmet Akif Tür   as   Data Engineer
+- Esra Kayaalp		  as   Data Scientist
+- Şevval Aysal	    as   Data Analyst
