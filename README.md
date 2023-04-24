@@ -1,7 +1,7 @@
 # EGAL
 # Yet Another Earthquake Project
 
-### Members
+### Team
 - Burak Kılıç       as   Project Coordinator
 - Bilge Alper       as   Data Engineer
 - Mehmet Akif Tür   as   Data Engineer
