@@ -16,8 +16,8 @@ def download_data(start_time,end_time):
     HEADERS = {'origin': URL, 'referer': URL + LOGIN_ROUTE}
     soup = bs(s.get(URL+LOGIN_ROUTE).text, 'html.parser')
     csrf_token = soup.body.find(id="csrf_token")['valuea']
-    id_login = "kilicbu16@itu.edu.tr"
-    password = "B@mnC8L^VdwGqa"
+    id_login = <enter_your_login_id_here>
+    password = <enter_your_login_pawssowrd_here>
 
     login_payload = {
                     'email': id_login,
