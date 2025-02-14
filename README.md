@@ -39,21 +39,4 @@ In conclusion, the adoption of big data methods and technologies in earthquake r
 3. **documentation/** - Holds supplementary documents and guides related to the research and technologies used.
 4. **figures/** - Stores figures and visualizations generated during the study.
 5. **LICENSE** - The license governing the use and distribution of the repository.
-6. **README.md** - This file, providing an overview of the research and repository.
-
-## Citation
-
-If you find this research and code helpful, kindly consider citing our paper:
-
-[Author Lastname(s). "Title of Paper." Journal/Conference Name, Volume(Issue), Year.](link-to-paper)
-
-## Contact Information
-
-For inquiries or collaboration opportunities, please feel free to reach out to us at:
-
-- Researcher Name: [Your Name](https://github.com/your-github-username)
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- Website: [yourwebsite.com](https://yourwebsite.com)
-
----
-_This README.md template was generated based on the abstract and conclusion of the research paper provided by the user. It aims to provide a structured and informative overview of the GitHub repository and its content related to big data methods for earthquake research._
+6. **README.md** - The README file you are reading.
